@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 260">
+<rect width="1000" height="260" fill="#0A0A0A"/>
+<g transform="translate(50,60) scale(1.05)">
+<path d="M 20,8 L 54,8 L 100,91 L 81,91 Z" fill="#FFFFFF"/>
+<path d="M 73,91 L 119,8 L 153,8 L 91,119 Z" fill="#00D1C9"/>
+</g>
+<text x="245" y="137" fill="#FFFFFF" font-family="Montserrat, Inter, Arial, sans-serif" font-size="76" font-weight="400" letter-spacing="10">VISUNEX</text>
+<text x="250" y="183" fill="#FFFFFF" font-family="Montserrat, Inter, Arial, sans-serif" font-size="28" font-weight="300" letter-spacing="11">TECHNOLOGIES</text>
+<path d="M250 218 H390 M750 218 H890" stroke="#00D1C9" stroke-width="2"/>
+<text x="570" y="224" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="18" letter-spacing="5">VISION IS THE FUTURE</text>
+</svg>
